@@ -1,5 +1,3 @@
-ESP32 SmartDrop (V6.4.2 + Setup Portal)
-
 An ESP32-based smart drop-box controller with keypad input (1–4), solenoid latch control, lid sensor, buzzer feedback, and native MQTT/Home Assistant integration. On first boot—or whenever Wi-Fi/MQTT is unset or fails—the device starts a captive Wi-Fi setup portal so you can enter credentials without editing code.
 
 Highlights
