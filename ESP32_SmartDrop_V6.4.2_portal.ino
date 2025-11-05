@@ -9,7 +9,7 @@
 #include <DNSServer.h>
 
 // ---------- Version ----------
-static const char* FW_VERSION = "V6.4.2-portal2";
+static const char* FW_VERSION = "V6.4.3";
 
 // ---------- Forward declarations ----------
 struct Btn;
